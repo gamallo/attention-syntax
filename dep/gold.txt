@@ -1,0 +1,10 @@
+1	CLS	-
+2	a	3_det
+3	nena	2_det,5_acl,9_nsubj
+4	que	5_nsubj
+5	xoga	4_nsubj,3_acl,7_obl
+6	no	7_case
+7	parque	6_case,5_obl
+8	é	9_cop
+9	linda	8_cop,3_nsubj
+10	SEP	-	

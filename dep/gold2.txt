@@ -1,0 +1,8 @@
+1	CLS	-
+2	o	3_det
+3	neno	2_det,4_nsubj,7_amod
+4	corre	3_nsubj,6_obl,7_xcomp
+5	polo	6_case
+6	campo	5_case,4_obl
+7	contento	4_xcomp,3_amod
+10	SEP	-	
